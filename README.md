@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/stickers/JUSTROCKET-justrocket-justrocketteam-justrocketcommunity-Qo2dupDib32rkTY4hX)" width="100"/>
+  <img src="https://giphy.com/stickers/JUSTROCKET-justrocket-justrocketteam-justrocketcommunity-Qo2dupDib32rkTY4hX" width="100"/>
 </div>
 <h1 align="center">Hi 👋, I'm Pansilu Wijesiri</h1>
 <h3 align="center">An undergraduate of University of Westminster.</h3>
