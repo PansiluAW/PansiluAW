@@ -1,7 +1,7 @@
  <div id="header" align="center">
 
-  <img src="https://media3.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="500"/>
- <h1>I'm Pansilu Wijesiri</h1>
+  <img src="https://cutewallpaper.org/28/doesktop-wallpaper-gif/aesthetic-dee7f-gif-5fe87-wallpapers-29837-top-d4e50-free-114f6-aesthetic-b0cbb-gif-a3aed-backgrounds-41645----wallpaperaccess.gif" width="1200" height = "400"/>
+  <h1 style = "font-size: 100"><b>I'm Pansilu Wijesiri</b></h1>
 </div>
 <p align="left"> <a href="https://twitter.com/pansiluaw" target="blank"><img src="https://img.shields.io/twitter/follow/pansiluaw?logo=twitter&style=for-the-badge" alt="pansiluaw" /></a> </p>
 
