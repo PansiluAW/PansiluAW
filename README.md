@@ -1,10 +1,10 @@
  <div id="header" align="center">
 
   <img src="https://cutewallpaper.org/28/doesktop-wallpaper-gif/aesthetic-dee7f-gif-5fe87-wallpapers-29837-top-d4e50-free-114f6-aesthetic-b0cbb-gif-a3aed-backgrounds-41645----wallpaperaccess.gif" width="1200" height = "400"/>
-  <h1 style = "font-size: 100"><b>I'm Pansilu Wijesiri 👋 </b></h1>
+  <h1><b>I'm Pansilu Wijesiri 👋 </b></h1>
  <h2 align = "center">A person that's ready to make a difference with the bearing skillset. 💫</h2>
 </div>
-  <img align = "right" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" width="600"/>
+  <img align = "right" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" width="500"/>
 
 <p align="left"> <a href="https://twitter.com/pansiluaw" target="blank"><img src="https://img.shields.io/twitter/follow/pansiluaw?logo=twitter&style=for-the-badge" alt="pansiluaw" /></a> </p>
 
