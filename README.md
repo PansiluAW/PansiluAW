@@ -1,6 +1,6 @@
  <div id="header" align="center">
 
-  <img src="https://media3.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="100"/>
+  <img src="https://media3.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="500"/>
 </div>
 <p align="left"> <a href="https://twitter.com/pansiluaw" target="blank"><img src="https://img.shields.io/twitter/follow/pansiluaw?logo=twitter&style=for-the-badge" alt="pansiluaw" /></a> </p>
 
