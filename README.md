@@ -13,6 +13,7 @@
 - 🌱 I’m currently learning **React.JS, and machine learning with Python**
 
 - 📫 How to reach me;
+                
                 ✉️ **pansiluwijesiri@gmail.com**
                 📃 [https://www.linkedin.com/in/pansiluw/](https://www.linkedin.com/in/pansiluw/)
 
