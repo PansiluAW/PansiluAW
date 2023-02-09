@@ -4,7 +4,7 @@
   <h1><b>I'm Pansilu Wijesiri 👋 </b></h1>
  <h2 align = "center">A person that's ready to make a difference with the bearing skillset. 💫</h2>
 </div>
-  <img align = "right" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" width="500"/>
+  <img align = "right" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" width="400"/>
 
 <p align="left"> <a href="https://twitter.com/pansiluaw" target="blank"><img src="https://img.shields.io/twitter/follow/pansiluaw?logo=twitter&style=for-the-badge" alt="pansiluaw" /></a> </p>
 
